@@ -345,7 +345,7 @@ color: #1e2e3b;
 }
 
 .header-divextra h1{
-	font-size:2rem;
+	font-size:2vm;
 	font-family:none;
 	font-weight:900;
 	color:#ffffff
@@ -613,14 +613,14 @@ a .carousel-control-prev-icon, .carousel-control-next-icon, .sr-only {
 
 .description {
 	line
-    font-size: 12px;
+    font-size: 10vw;
     font-weight: 50;
-    line-height: 1.2em; 
+    /*line-height: 1.2em; */
     text-align:center;
     margin: 0 auto;
     max-width: 950px;
     padding: 0;
-    margin-bottom: 50px;
+    margin-bottom: 5px;
 }
 
 
